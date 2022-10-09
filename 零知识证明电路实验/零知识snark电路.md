@@ -10,7 +10,7 @@
 
 
 
-## 准备：安装Node.js（不多介绍）
+## 准备：安装Node.js（不多介绍） 
 
 ## 1. 安装circom&snarkjs
 
@@ -993,3 +993,4 @@ E:\factor>snarkjs groth16 verify verification_key.json public.json proof.json
 [INFO]  snarkJS: OK!
 ```
 
+谢谢
